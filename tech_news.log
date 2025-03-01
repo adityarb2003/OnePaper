@@ -929,14 +929,3 @@
 2025-01-26 11:12:58,272 - __main__ - INFO - Generated token for aditya.21cs004@sode-edu.in with action preferences
 2025-01-26 11:13:00,233 - __main__ - INFO - Newsletter sent to aditya.21cs004@sode-edu.in
 2025-01-26 11:13:00,540 - __main__ - INFO - Completed sending newsletters
-2025-03-01 11:56:47,955 - __main__ - INFO - Loaded 1 subscribers
-2025-03-01 11:56:47,962 - __main__ - INFO - Health server started on port 5001
-2025-03-01 11:56:47,964 - __main__ - INFO - Newsletter scheduled for 11:12 daily
-2025-03-01 11:56:47,983 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
- * Running on all addresses (0.0.0.0)
- * Running on http://127.0.0.1:5001
- * Running on http://192.168.0.105:5001
-2025-03-01 11:56:47,983 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
-2025-03-01 11:57:14,495 - main - INFO - Loaded 1 subscribers
-2025-03-01 12:03:19,871 - main - INFO - Saved 2 subscribers
-2025-03-01 12:03:19,871 - main - INFO - Added subscriber: aditybhatperdoor@gmail.com with 2 preferences
