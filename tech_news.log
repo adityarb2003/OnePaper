@@ -1,0 +1,931 @@
+2025-01-10 23:44:24,996 - __main__ - INFO - Loaded 0 subscribers
+2025-01-10 23:44:25,005 - __main__ - INFO - Health server started on port 4500
+2025-01-10 23:44:25,006 - __main__ - INFO - Newsletter scheduled for 23:45 daily
+2025-01-10 23:44:25,043 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:4500
+ * Running on http://192.168.0.102:4500
+2025-01-10 23:44:25,044 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-10 23:44:30,494 - werkzeug - INFO - 192.168.0.102 - - [10/Jan/2025 23:44:30] "[33mGET / HTTP/1.1[0m" 404 -
+2025-01-10 23:44:30,556 - werkzeug - INFO - 192.168.0.102 - - [10/Jan/2025 23:44:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-10 23:44:37,112 - werkzeug - INFO - 192.168.0.102 - - [10/Jan/2025 23:44:37] "GET /health HTTP/1.1" 200 -
+2025-01-10 23:44:52,201 - main - INFO - Loaded 0 subscribers
+2025-01-10 23:44:52,266 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-10 23:44:52,266 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-10 23:44:52,272 - werkzeug - INFO -  * Restarting with stat
+2025-01-10 23:44:54,042 - main - INFO - Loaded 0 subscribers
+2025-01-10 23:44:54,070 - werkzeug - WARNING -  * Debugger is active!
+2025-01-10 23:44:54,083 - werkzeug - INFO -  * Debugger PIN: 713-900-248
+2025-01-10 23:44:55,402 - werkzeug - INFO - 127.0.0.1 - - [10/Jan/2025 23:44:55] "GET / HTTP/1.1" 200 -
+2025-01-10 23:44:55,839 - werkzeug - INFO - 127.0.0.1 - - [10/Jan/2025 23:44:55] "[33mGET /assets/fonts/GeistMono-Regular.ttf HTTP/1.1[0m" 404 -
+2025-01-10 23:44:55,883 - werkzeug - INFO - 127.0.0.1 - - [10/Jan/2025 23:44:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-10 23:45:06,696 - main - INFO - Saved 1 subscribers
+2025-01-10 23:45:06,700 - main - INFO - Added subscriber: aditya.21cs004@sode-edu.in with 12 preferences
+2025-01-10 23:45:06,702 - werkzeug - INFO - 127.0.0.1 - - [10/Jan/2025 23:45:06] "[32mPOST /subscribe HTTP/1.1[0m" 302 -
+2025-01-10 23:45:06,707 - werkzeug - INFO - 127.0.0.1 - - [10/Jan/2025 23:45:06] "GET / HTTP/1.1" 200 -
+2025-01-10 23:45:06,803 - werkzeug - INFO - 127.0.0.1 - - [10/Jan/2025 23:45:06] "[33mGET /assets/fonts/GeistMono-Regular.ttf HTTP/1.1[0m" 404 -
+2025-01-10 23:45:25,023 - __main__ - INFO - No subscribers to send newsletter to
+2025-01-10 23:46:00,553 - __main__ - INFO - Loaded 1 subscribers
+2025-01-10 23:46:00,558 - __main__ - INFO - Health server started on port 4500
+2025-01-10 23:46:00,559 - __main__ - INFO - Newsletter scheduled for 23:47 daily
+2025-01-10 23:46:00,584 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:4500
+ * Running on http://192.168.0.102:4500
+2025-01-10 23:46:00,584 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-10 23:47:03,122 - __main__ - ERROR - Error sending newsletter to aditya.21cs004@sode-edu.in: 'TechNewsAggregator' object has no attribute 'fetch_hacker_news'
+2025-01-10 23:47:03,391 - __main__ - INFO - Completed sending newsletters
+2025-01-10 23:48:49,117 - werkzeug - INFO -  * Detected change in 'C:\\Users\\adity\\PycharmProjects\\newsletter\\main.py', reloading
+2025-01-10 23:48:49,237 - werkzeug - INFO -  * Restarting with stat
+2025-01-10 23:48:50,503 - main - INFO - Loaded 1 subscribers
+2025-01-10 23:48:50,591 - werkzeug - WARNING -  * Debugger is active!
+2025-01-10 23:48:50,607 - werkzeug - INFO -  * Debugger PIN: 713-900-248
+2025-01-10 23:49:01,198 - __main__ - INFO - Loaded 1 subscribers
+2025-01-10 23:49:01,205 - __main__ - INFO - Health server started on port 4500
+2025-01-10 23:49:01,207 - __main__ - INFO - Newsletter scheduled for 23:49 daily
+2025-01-10 23:49:01,244 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:4500
+ * Running on http://192.168.0.102:4500
+2025-01-10 23:49:01,245 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-10 23:50:23,515 - __main__ - INFO - Loaded 1 subscribers
+2025-01-10 23:50:23,526 - __main__ - INFO - Health server started on port 4500
+2025-01-10 23:50:23,528 - __main__ - INFO - Newsletter scheduled for 23:52 daily
+2025-01-10 23:50:23,585 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:4500
+ * Running on http://192.168.0.102:4500
+2025-01-10 23:50:23,586 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-10 23:52:25,430 - __main__ - ERROR - Error sending newsletter to aditya.21cs004@sode-edu.in: 'TechNewsAggregator' object has no attribute 'fetch_reddit'
+2025-01-10 23:52:25,671 - __main__ - INFO - Completed sending newsletters
+2025-01-10 23:53:16,081 - werkzeug - INFO -  * Detected change in 'C:\\Users\\adity\\PycharmProjects\\newsletter\\main.py', reloading
+2025-01-10 23:53:16,174 - werkzeug - INFO -  * Restarting with stat
+2025-01-10 23:53:17,124 - main - INFO - Loaded 1 subscribers
+2025-01-10 23:53:17,150 - werkzeug - WARNING -  * Debugger is active!
+2025-01-10 23:53:17,156 - werkzeug - INFO -  * Debugger PIN: 713-900-248
+2025-01-10 23:53:31,918 - __main__ - INFO - Loaded 1 subscribers
+2025-01-10 23:53:31,922 - __main__ - INFO - Health server started on port 4500
+2025-01-10 23:53:31,923 - __main__ - INFO - Newsletter scheduled for 23:55 daily
+2025-01-10 23:53:31,941 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:4500
+ * Running on http://192.168.0.102:4500
+2025-01-10 23:53:31,942 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-10 23:55:33,720 - __main__ - ERROR - Error sending newsletter to aditya.21cs004@sode-edu.in: 'TechNewsAggregator' object has no attribute 'fetch_dev_to'
+2025-01-10 23:55:33,978 - __main__ - INFO - Completed sending newsletters
+2025-01-10 23:56:01,806 - werkzeug - INFO -  * Detected change in 'C:\\Users\\adity\\PycharmProjects\\newsletter\\main.py', reloading
+2025-01-10 23:56:01,970 - werkzeug - INFO -  * Restarting with stat
+2025-01-10 23:56:03,398 - main - INFO - Loaded 1 subscribers
+2025-01-10 23:56:03,437 - werkzeug - WARNING -  * Debugger is active!
+2025-01-10 23:56:03,445 - werkzeug - INFO -  * Debugger PIN: 713-900-248
+2025-01-10 23:56:08,649 - werkzeug - INFO -  * Detected change in 'C:\\Users\\adity\\PycharmProjects\\newsletter\\main.py', reloading
+2025-01-10 23:56:08,753 - werkzeug - INFO -  * Restarting with stat
+2025-01-10 23:56:10,078 - main - INFO - Loaded 1 subscribers
+2025-01-10 23:56:10,109 - werkzeug - WARNING -  * Debugger is active!
+2025-01-10 23:56:10,116 - werkzeug - INFO -  * Debugger PIN: 713-900-248
+2025-01-10 23:57:21,609 - __main__ - INFO - Loaded 1 subscribers
+2025-01-10 23:57:21,615 - __main__ - INFO - Health server started on port 4500
+2025-01-10 23:57:21,616 - __main__ - INFO - Newsletter scheduled for 23:59 daily
+2025-01-10 23:57:21,640 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:4500
+ * Running on http://192.168.0.102:4500
+2025-01-10 23:57:21,640 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-10 23:59:56,145 - __main__ - INFO - Newsletter sent to aditya.21cs004@sode-edu.in
+2025-01-10 23:59:56,385 - __main__ - INFO - Completed sending newsletters
+2025-01-11 00:05:18,473 - werkzeug - INFO -  * Detected change in 'C:\\Users\\adity\\PycharmProjects\\newsletter\\main.py', reloading
+2025-01-11 00:05:18,584 - werkzeug - INFO -  * Restarting with stat
+2025-01-11 00:05:19,871 - main - INFO - Loaded 1 subscribers
+2025-01-11 00:05:19,937 - werkzeug - WARNING -  * Debugger is active!
+2025-01-11 00:05:19,951 - werkzeug - INFO -  * Debugger PIN: 713-900-248
+2025-01-11 00:07:57,941 - werkzeug - INFO -  * Detected change in 'C:\\Users\\adity\\PycharmProjects\\newsletter\\main.py', reloading
+2025-01-11 00:07:58,088 - werkzeug - INFO -  * Restarting with stat
+2025-01-11 00:07:58,979 - main - INFO - Loaded 1 subscribers
+2025-01-11 00:07:59,016 - werkzeug - WARNING -  * Debugger is active!
+2025-01-11 00:07:59,022 - werkzeug - INFO -  * Debugger PIN: 713-900-248
+2025-01-11 00:09:18,355 - __main__ - INFO - Loaded 1 subscribers
+2025-01-11 00:09:18,360 - __main__ - INFO - Health server started on port 4500
+2025-01-11 00:09:18,361 - __main__ - INFO - Newsletter scheduled for 00:11 daily
+2025-01-11 00:09:18,383 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:4500
+ * Running on http://192.168.0.102:4500
+2025-01-11 00:09:18,384 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-11 00:11:48,832 - __main__ - INFO - Newsletter sent to aditya.21cs004@sode-edu.in
+2025-01-11 00:11:49,092 - __main__ - INFO - Completed sending newsletters
+2025-01-11 14:46:07,891 - __main__ - INFO - Health server started on port 4500
+2025-01-11 14:46:07,893 - __main__ - INFO - Newsletter scheduled for 00:11 daily
+2025-01-11 14:46:07,919 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:4500
+ * Running on http://192.168.0.102:4500
+2025-01-11 14:46:07,920 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-11 15:00:32,170 - werkzeug - INFO - 127.0.0.1 - - [11/Jan/2025 15:00:32] "[33mGET /subscribers HTTP/1.1[0m" 404 -
+2025-01-11 15:01:11,926 - __main__ - INFO - Health server started on port 4500
+2025-01-11 15:01:11,927 - __main__ - INFO - Newsletter scheduled for 00:11 daily
+2025-01-11 15:01:11,943 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:4500
+ * Running on http://192.168.0.102:4500
+2025-01-11 15:01:11,944 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-11 15:01:19,711 - werkzeug - INFO - 127.0.0.1 - - [11/Jan/2025 15:01:19] "[33mGET /subscribers HTTP/1.1[0m" 404 -
+2025-01-11 15:01:45,628 - werkzeug - INFO - 127.0.0.1 - - [11/Jan/2025 15:01:45] "[33mOPTIONS /subscribe HTTP/1.1[0m" 404 -
+2025-01-11 15:06:43,391 - werkzeug - INFO - 127.0.0.1 - - [11/Jan/2025 15:06:43] "[33mGET /subscribers HTTP/1.1[0m" 404 -
+2025-01-11 15:08:18,170 - werkzeug - INFO - 127.0.0.1 - - [11/Jan/2025 15:08:18] "[33mGET /subscribers HTTP/1.1[0m" 404 -
+2025-01-11 15:09:06,822 - werkzeug - INFO - 127.0.0.1 - - [11/Jan/2025 15:09:06] "[33mGET /subscribers HTTP/1.1[0m" 404 -
+2025-01-11 15:09:10,043 - werkzeug - INFO - 127.0.0.1 - - [11/Jan/2025 15:09:10] "[33mGET /subscribers HTTP/1.1[0m" 404 -
+2025-01-11 15:09:11,876 - werkzeug - INFO - 127.0.0.1 - - [11/Jan/2025 15:09:11] "[33mGET /subscribers HTTP/1.1[0m" 404 -
+2025-01-11 15:09:22,210 - werkzeug - INFO - 127.0.0.1 - - [11/Jan/2025 15:09:22] "[33mOPTIONS /subscribe HTTP/1.1[0m" 404 -
+2025-01-12 18:41:30,306 - main - INFO - Loaded 1 subscribers
+2025-01-12 18:41:30,460 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-12 18:41:30,461 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-12 18:41:30,465 - werkzeug - INFO -  * Restarting with stat
+2025-01-12 18:41:31,387 - main - INFO - Loaded 1 subscribers
+2025-01-12 18:41:31,427 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 18:41:31,444 - werkzeug - INFO -  * Debugger PIN: 713-900-248
+2025-01-12 18:41:49,530 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 18:41:49] "[32mPOST /subscribe HTTP/1.1[0m" 302 -
+2025-01-12 18:41:49,638 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 18:41:49] "GET / HTTP/1.1" 200 -
+2025-01-12 18:45:10,032 - werkzeug - INFO -  * Detected change in 'C:\\Users\\adity\\PycharmProjects\\newsletter\\app.py', reloading
+2025-01-12 18:45:10,181 - werkzeug - INFO -  * Restarting with stat
+2025-01-12 18:45:11,146 - main - INFO - Loaded 1 subscribers
+2025-01-12 18:45:11,187 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 18:45:11,194 - werkzeug - INFO -  * Debugger PIN: 713-900-248
+2025-01-12 18:45:22,524 - main - INFO - Saved 2 subscribers
+2025-01-12 18:45:22,525 - main - INFO - Added subscriber: aditya@gmail.com with 1 preferences
+2025-01-12 18:45:22,595 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 18:45:22] "[35m[1mPOST /subscribe HTTP/1.1[0m" 500 -
+2025-01-12 18:45:54,806 - werkzeug - INFO -  * Detected change in 'C:\\Users\\adity\\PycharmProjects\\newsletter\\app.py', reloading
+2025-01-12 18:45:54,958 - werkzeug - INFO -  * Restarting with stat
+2025-01-12 18:45:55,869 - main - INFO - Loaded 2 subscribers
+2025-01-12 18:45:55,901 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 18:45:55,915 - werkzeug - INFO -  * Debugger PIN: 713-900-248
+2025-01-12 18:46:00,144 - main - INFO - Saved 2 subscribers
+2025-01-12 18:46:00,145 - main - INFO - Added subscriber: aditya@gmail.com with 1 preferences
+2025-01-12 18:46:00,153 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 18:46:00] "POST /subscribe HTTP/1.1" 200 -
+2025-01-12 19:24:05,903 - main - INFO - Saved 3 subscribers
+2025-01-12 19:24:05,903 - main - INFO - Saved 3 subscribers
+2025-01-12 19:24:05,904 - main - INFO - Added subscriber: adityabhatperdoor@gmail.com with 0 preferences
+2025-01-12 19:24:05,904 - main - INFO - Added subscriber: adityabhatperdoor@gmail.com with 0 preferences
+2025-01-12 19:24:05,906 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 19:24:05] "POST /subscribe HTTP/1.1" 200 -
+2025-01-12 19:24:05,913 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 19:24:05] "POST /subscribe HTTP/1.1" 200 -
+2025-01-12 19:24:05,999 - main - INFO - Saved 3 subscribers
+2025-01-12 19:24:06,000 - main - INFO - Added subscriber: adityabhatperdoor@gmail.com with 0 preferences
+2025-01-12 19:24:06,000 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 19:24:06] "POST /subscribe HTTP/1.1" 200 -
+2025-01-12 19:24:39,072 - main - INFO - Saved 4 subscribers
+2025-01-12 19:24:39,072 - main - INFO - Added subscriber: a@gmail.com with 0 preferences
+2025-01-12 19:24:39,073 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 19:24:39] "POST /subscribe HTTP/1.1" 200 -
+2025-01-12 19:32:05,939 - werkzeug - INFO -  * Detected change in 'C:\\Users\\adity\\PycharmProjects\\newsletter\\app.py', reloading
+2025-01-12 19:32:06,106 - werkzeug - INFO -  * Restarting with stat
+2025-01-12 19:32:07,813 - main - INFO - Loaded 4 subscribers
+2025-01-12 19:32:07,835 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 19:32:07,840 - werkzeug - INFO -  * Debugger PIN: 713-900-248
+2025-01-12 19:32:21,231 - werkzeug - INFO -  * Detected change in 'C:\\Users\\adity\\PycharmProjects\\newsletter\\app.py', reloading
+2025-01-12 19:32:21,340 - werkzeug - INFO -  * Restarting with stat
+2025-01-12 19:32:22,466 - main - INFO - Loaded 4 subscribers
+2025-01-12 19:32:22,507 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 19:32:22,512 - werkzeug - INFO -  * Debugger PIN: 713-900-248
+2025-01-12 19:35:11,740 - main - INFO - Saved 4 subscribers
+2025-01-12 19:35:11,741 - main - INFO - Added subscriber: aditya.21cs004@sode-edu.in with 2 preferences
+2025-01-12 19:35:11,749 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 19:35:11] "POST /subscribe HTTP/1.1" 200 -
+2025-01-12 19:36:56,213 - main - INFO - Loaded 1 subscribers
+2025-01-12 19:41:19,162 - werkzeug - INFO -  * Detected change in 'C:\\Users\\adity\\PycharmProjects\\newsletter\\main.py', reloading
+2025-01-12 19:41:19,261 - werkzeug - INFO -  * Restarting with stat
+2025-01-12 19:41:20,540 - main - INFO - Loaded 1 subscribers
+2025-01-12 19:41:20,586 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 19:41:20,593 - werkzeug - INFO -  * Debugger PIN: 713-900-248
+2025-01-12 19:41:33,169 - werkzeug - INFO -  * Detected change in 'C:\\Users\\adity\\PycharmProjects\\newsletter\\main.py', reloading
+2025-01-12 19:41:33,265 - werkzeug - INFO -  * Restarting with stat
+2025-01-12 19:41:34,173 - main - INFO - Loaded 1 subscribers
+2025-01-12 19:41:34,198 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 19:41:34,202 - werkzeug - INFO -  * Debugger PIN: 713-900-248
+2025-01-12 19:41:41,326 - main - INFO - Loaded 1 subscribers
+2025-01-12 19:41:57,376 - werkzeug - INFO -  * Detected change in 'C:\\Users\\adity\\PycharmProjects\\newsletter\\main.py', reloading
+2025-01-12 19:41:57,470 - werkzeug - INFO -  * Restarting with stat
+2025-01-12 19:41:58,530 - main - INFO - Loaded 1 subscribers
+2025-01-12 19:41:58,592 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 19:41:58,604 - werkzeug - INFO -  * Debugger PIN: 713-900-248
+2025-01-12 19:42:25,346 - __main__ - INFO - Loaded 1 subscribers
+2025-01-12 19:42:25,355 - __main__ - INFO - Health server started on port 5001
+2025-01-12 19:42:25,357 - __main__ - INFO - Newsletter scheduled for 19:44 daily
+2025-01-12 19:42:25,385 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.102:5001
+2025-01-12 19:42:25,386 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-12 19:44:50,520 - __main__ - ERROR - Error fetching from GitHub: type object 'datetime.datetime' has no attribute 'datetime'
+2025-01-12 19:44:52,387 - __main__ - INFO - Newsletter sent to aditya.21cs004@sode-edu.in
+2025-01-12 19:44:52,642 - __main__ - INFO - Completed sending newsletters
+2025-01-12 19:46:13,015 - werkzeug - INFO -  * Detected change in 'C:\\Users\\adity\\PycharmProjects\\newsletter\\main.py', reloading
+2025-01-12 19:46:13,167 - werkzeug - INFO -  * Restarting with stat
+2025-01-12 19:46:14,391 - main - INFO - Loaded 1 subscribers
+2025-01-12 19:46:14,418 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 19:46:14,423 - werkzeug - INFO -  * Debugger PIN: 713-900-248
+2025-01-12 19:46:31,873 - __main__ - INFO - Loaded 1 subscribers
+2025-01-12 19:46:31,884 - __main__ - INFO - Health server started on port 5001
+2025-01-12 19:46:31,887 - __main__ - INFO - Newsletter scheduled for 19:48 daily
+2025-01-12 19:46:31,924 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.102:5001
+2025-01-12 19:46:31,924 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-12 19:49:13,788 - __main__ - ERROR - Error sending newsletter to aditya.21cs004@sode-edu.in: module 'datetime' has no attribute 'now'
+2025-01-12 19:49:14,082 - __main__ - INFO - Completed sending newsletters
+2025-01-12 19:50:53,159 - werkzeug - INFO -  * Detected change in 'C:\\Users\\adity\\PycharmProjects\\newsletter\\main.py', reloading
+2025-01-12 19:50:53,246 - werkzeug - INFO -  * Restarting with stat
+2025-01-12 19:50:54,315 - main - INFO - Loaded 1 subscribers
+2025-01-12 19:50:54,339 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 19:50:54,344 - werkzeug - INFO -  * Debugger PIN: 713-900-248
+2025-01-12 19:51:08,897 - __main__ - INFO - Loaded 1 subscribers
+2025-01-12 19:51:08,910 - __main__ - INFO - Health server started on port 5001
+2025-01-12 19:51:08,913 - __main__ - INFO - Newsletter scheduled for 19:52 daily
+2025-01-12 19:51:08,958 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.102:5001
+2025-01-12 19:51:08,959 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-12 19:52:36,752 - __main__ - ERROR - Error fetching from GitHub: module 'datetime' has no attribute 'now'
+2025-01-12 19:52:36,755 - __main__ - ERROR - Error sending newsletter to aditya.21cs004@sode-edu.in: module 'datetime' has no attribute 'now'
+2025-01-12 19:52:37,041 - __main__ - INFO - Completed sending newsletters
+2025-01-12 19:52:49,026 - werkzeug - INFO -  * Detected change in 'C:\\Users\\adity\\PycharmProjects\\newsletter\\main.py', reloading
+2025-01-12 19:52:49,166 - werkzeug - INFO -  * Restarting with stat
+2025-01-12 19:53:02,258 - __main__ - INFO - Loaded 1 subscribers
+2025-01-12 19:53:02,265 - __main__ - INFO - Health server started on port 5001
+2025-01-12 19:53:02,266 - __main__ - INFO - Newsletter scheduled for 19:54 daily
+2025-01-12 19:53:02,297 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.102:5001
+2025-01-12 19:53:02,299 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-12 19:54:27,652 - __main__ - ERROR - Error fetching from GitHub: type object 'datetime.datetime' has no attribute 'timedelta'
+2025-01-12 19:54:29,578 - __main__ - INFO - Newsletter sent to aditya.21cs004@sode-edu.in
+2025-01-12 19:54:29,887 - __main__ - INFO - Completed sending newsletters
+2025-01-12 19:57:12,638 - __main__ - INFO - Loaded 1 subscribers
+2025-01-12 19:57:12,642 - __main__ - INFO - Health server started on port 5001
+2025-01-12 19:57:12,644 - __main__ - INFO - Newsletter scheduled for 19:59 daily
+2025-01-12 19:57:12,662 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.102:5001
+2025-01-12 19:57:12,662 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-12 19:59:53,883 - __main__ - INFO - Newsletter sent to aditya.21cs004@sode-edu.in
+2025-01-12 19:59:54,191 - __main__ - INFO - Completed sending newsletters
+2025-01-12 20:28:55,949 - main - INFO - Loaded 1 subscribers
+2025-01-12 20:28:55,988 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-12 20:28:55,989 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-12 20:28:55,991 - werkzeug - INFO -  * Restarting with stat
+2025-01-12 20:28:57,862 - main - INFO - Loaded 1 subscribers
+2025-01-12 20:28:57,887 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 20:28:57,892 - werkzeug - INFO -  * Debugger PIN: 713-900-248
+2025-01-12 20:29:03,996 - main - INFO - Saved 2 subscribers
+2025-01-12 20:29:03,996 - main - INFO - Added subscriber: ad@gmail.com with 8 preferences
+2025-01-12 20:29:03,997 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 20:29:03] "POST /subscribe HTTP/1.1" 200 -
+2025-01-12 21:01:57,480 - main - INFO - Saved 3 subscribers
+2025-01-12 21:01:57,481 - main - INFO - Added subscriber: adii@gmail.com with 2 preferences
+2025-01-12 21:01:57,482 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 21:01:57] "POST /subscribe HTTP/1.1" 200 -
+2025-01-12 21:47:50,404 - main - INFO - Loaded 3 subscribers
+2025-01-12 21:49:25,282 - main - INFO - Loaded 3 subscribers
+2025-01-12 21:49:47,252 - main - INFO - Loaded 3 subscribers
+2025-01-12 21:50:18,804 - main - INFO - Loaded 3 subscribers
+2025-01-12 21:50:18,833 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-12 21:50:18,834 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-12 21:50:18,836 - werkzeug - INFO -  * Restarting with stat
+2025-01-12 21:50:19,320 - main - INFO - Loaded 3 subscribers
+2025-01-12 21:50:19,333 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 21:50:19,336 - werkzeug - INFO -  * Debugger PIN: 713-900-248
+2025-01-12 22:04:33,545 - werkzeug - INFO -  * Detected change in 'C:\\Users\\adity\\PycharmProjects\\newsletter\\app.py', reloading
+2025-01-12 22:04:33,609 - werkzeug - INFO -  * Restarting with stat
+2025-01-12 22:04:34,650 - main - INFO - Loaded 3 subscribers
+2025-01-12 22:05:01,403 - main - INFO - Loaded 3 subscribers
+2025-01-12 22:05:59,386 - main - INFO - Loaded 3 subscribers
+2025-01-12 22:06:29,067 - main - INFO - Loaded 3 subscribers
+2025-01-12 22:07:11,121 - main - INFO - Loaded 3 subscribers
+2025-01-12 22:08:02,018 - main - INFO - Loaded 3 subscribers
+2025-01-12 22:08:18,884 - main - INFO - Saved 4 subscribers
+2025-01-12 22:08:18,885 - main - INFO - Added subscriber: test@gmail.com with 1 preferences
+2025-01-12 22:12:25,454 - main - INFO - Loaded 0 subscribers
+2025-01-12 22:12:42,276 - main - INFO - Loaded 0 subscribers
+2025-01-12 22:13:25,607 - main - INFO - Loaded 0 subscribers
+2025-01-12 22:17:31,129 - main - INFO - Loaded 0 subscribers
+2025-01-12 22:19:29,390 - main - INFO - Loaded 0 subscribers
+2025-01-12 22:19:48,477 - main - INFO - Loaded 0 subscribers
+2025-01-12 22:20:27,215 - main - INFO - Loaded 0 subscribers
+2025-01-13 00:44:56,455 - __main__ - INFO - Loaded 0 subscribers
+2025-01-13 00:44:56,469 - __main__ - INFO - Health server started on port 5001
+2025-01-13 00:44:56,472 - __main__ - INFO - Newsletter scheduled for 19:59 daily
+2025-01-13 00:44:56,576 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.102:5001
+2025-01-13 00:44:56,577 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-13 00:45:45,331 - werkzeug - INFO - 192.168.0.102 - - [13/Jan/2025 00:45:45] "[33mGET / HTTP/1.1[0m" 404 -
+2025-01-13 00:45:45,480 - werkzeug - INFO - 192.168.0.102 - - [13/Jan/2025 00:45:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-13 00:45:51,503 - werkzeug - INFO - 192.168.0.102 - - [13/Jan/2025 00:45:51] "GET /health HTTP/1.1" 200 -
+2025-01-15 19:38:10,595 - main - INFO - Loaded 0 subscribers
+2025-01-15 19:38:59,487 - main - INFO - Loaded 0 subscribers
+2025-01-15 19:39:22,367 - main - INFO - Saved 1 subscribers
+2025-01-15 19:39:22,370 - main - INFO - Added subscriber: aditya.21cs004@sode-edu.in with 1 preferences
+2025-01-15 19:39:57,266 - __main__ - INFO - Loaded 1 subscribers
+2025-01-15 19:39:57,290 - __main__ - INFO - Health server started on port 5001
+2025-01-15 19:39:57,290 - __main__ - INFO - Newsletter scheduled for 19:45 daily
+2025-01-15 19:39:57,340 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.105:5001
+2025-01-15 19:39:57,340 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-15 19:41:45,531 - __main__ - INFO - Loaded 1 subscribers
+2025-01-15 19:41:45,538 - __main__ - INFO - Health server started on port 5001
+2025-01-15 19:41:45,538 - __main__ - INFO - Newsletter scheduled for 19:43 daily
+2025-01-15 19:41:45,563 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.105:5001
+2025-01-15 19:41:45,563 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-15 19:44:31,537 - __main__ - ERROR - Error sending newsletter to aditya.21cs004@sode-edu.in: TechNewsAggregator.generate_token() takes 2 positional arguments but 3 were given
+2025-01-15 19:44:31,800 - __main__ - INFO - Completed sending newsletters
+2025-01-15 19:45:42,033 - main - INFO - Loaded 1 subscribers
+2025-01-15 19:46:28,507 - main - INFO - Loaded 1 subscribers
+2025-01-15 19:47:08,110 - __main__ - INFO - Loaded 1 subscribers
+2025-01-15 19:47:08,119 - __main__ - INFO - Health server started on port 5001
+2025-01-15 19:47:08,121 - __main__ - INFO - Newsletter scheduled for 19:49 daily
+2025-01-15 19:47:08,171 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.105:5001
+2025-01-15 19:47:08,171 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-15 19:49:51,036 - __main__ - INFO - Newsletter sent to aditya.21cs004@sode-edu.in
+2025-01-15 19:49:51,278 - __main__ - INFO - Completed sending newsletters
+2025-01-15 19:51:06,256 - main - INFO - Loaded 1 subscribers
+2025-01-15 19:51:16,071 - main - INFO - Loaded 1 subscribers
+2025-01-15 19:51:27,971 - __main__ - INFO - Loaded 1 subscribers
+2025-01-15 19:51:27,971 - __main__ - INFO - Health server started on port 5001
+2025-01-15 19:51:27,989 - __main__ - INFO - Newsletter scheduled for 19:53 daily
+2025-01-15 19:51:28,008 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.105:5001
+2025-01-15 19:51:28,008 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-15 19:54:06,659 - __main__ - INFO - Newsletter sent to aditya.21cs004@sode-edu.in
+2025-01-15 19:54:06,893 - __main__ - INFO - Completed sending newsletters
+2025-01-15 20:10:08,036 - __main__ - INFO - Loaded 1 subscribers
+2025-01-15 20:10:08,042 - __main__ - INFO - Health server started on port 5001
+2025-01-15 20:10:08,045 - __main__ - INFO - Newsletter scheduled for 20:11 daily
+2025-01-15 20:10:08,072 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.105:5001
+2025-01-15 20:10:08,072 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-15 20:11:51,566 - __main__ - INFO - Newsletter sent to aditya.21cs004@sode-edu.in
+2025-01-15 20:11:51,813 - __main__ - INFO - Completed sending newsletters
+2025-01-15 20:18:02,353 - main - INFO - Loaded 1 subscribers
+2025-01-15 20:18:17,603 - __main__ - INFO - Loaded 1 subscribers
+2025-01-15 20:18:17,606 - __main__ - INFO - Health server started on port 5001
+2025-01-15 20:18:17,608 - __main__ - INFO - Newsletter scheduled for 20:20 daily
+2025-01-15 20:18:17,654 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.105:5001
+2025-01-15 20:18:17,656 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-15 20:18:31,248 - werkzeug - INFO - 192.168.0.105 - - [15/Jan/2025 20:18:31] "[33mGET / HTTP/1.1[0m" 404 -
+2025-01-15 20:18:31,321 - werkzeug - INFO - 192.168.0.105 - - [15/Jan/2025 20:18:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-15 20:18:37,102 - werkzeug - INFO - 192.168.0.105 - - [15/Jan/2025 20:18:37] "GET /health HTTP/1.1" 200 -
+2025-01-15 20:20:29,930 - main - INFO - Loaded 1 subscribers
+2025-01-15 20:20:43,285 - main - INFO - Loaded 1 subscribers
+2025-01-15 20:20:50,834 - __main__ - INFO - Loaded 1 subscribers
+2025-01-15 20:20:50,838 - __main__ - INFO - Health server started on port 5001
+2025-01-15 20:20:50,842 - __main__ - INFO - Newsletter scheduled for 20:22 daily
+2025-01-15 20:20:50,860 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.105:5001
+2025-01-15 20:20:50,862 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-15 20:23:33,781 - __main__ - INFO - Newsletter sent to aditya.21cs004@sode-edu.in
+2025-01-15 20:23:34,025 - __main__ - INFO - Completed sending newsletters
+2025-01-15 20:31:56,906 - werkzeug - INFO - 192.168.0.105 - - [15/Jan/2025 20:31:56] "[33mGET /preferences/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6WyJIYWNrZXIgTmV3cyJdLCJhY3Rpb24iOiJtYW5hZ2UiLCJleHAiOjE3Mzc1NTc2MTF9.SZ4SMYaAjUvKmsezxMDJJZRNp5w23hZrDYWQbkGC9wg HTTP/1.1[0m" 404 -
+2025-01-15 20:32:00,700 - werkzeug - INFO - 192.168.0.105 - - [15/Jan/2025 20:32:00] "[33mOPTIONS /preferences/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6WyJIYWNrZXIgTmV3cyJdLCJhY3Rpb24iOiJtYW5hZ2UiLCJleHAiOjE3Mzc1NTc2MTF9.SZ4SMYaAjUvKmsezxMDJJZRNp5w23hZrDYWQbkGC9wg HTTP/1.1[0m" 404 -
+2025-01-15 20:32:01,625 - werkzeug - INFO - 192.168.0.105 - - [15/Jan/2025 20:32:01] "[33mOPTIONS /preferences/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6WyJIYWNrZXIgTmV3cyJdLCJhY3Rpb24iOiJtYW5hZ2UiLCJleHAiOjE3Mzc1NTc2MTF9.SZ4SMYaAjUvKmsezxMDJJZRNp5w23hZrDYWQbkGC9wg HTTP/1.1[0m" 404 -
+2025-01-15 20:32:01,966 - werkzeug - INFO - 192.168.0.105 - - [15/Jan/2025 20:32:01] "[33mOPTIONS /preferences/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6WyJIYWNrZXIgTmV3cyJdLCJhY3Rpb24iOiJtYW5hZ2UiLCJleHAiOjE3Mzc1NTc2MTF9.SZ4SMYaAjUvKmsezxMDJJZRNp5w23hZrDYWQbkGC9wg HTTP/1.1[0m" 404 -
+2025-01-15 20:32:02,157 - werkzeug - INFO - 192.168.0.105 - - [15/Jan/2025 20:32:02] "[33mOPTIONS /preferences/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6WyJIYWNrZXIgTmV3cyJdLCJhY3Rpb24iOiJtYW5hZ2UiLCJleHAiOjE3Mzc1NTc2MTF9.SZ4SMYaAjUvKmsezxMDJJZRNp5w23hZrDYWQbkGC9wg HTTP/1.1[0m" 404 -
+2025-01-15 20:32:02,347 - werkzeug - INFO - 192.168.0.105 - - [15/Jan/2025 20:32:02] "[33mOPTIONS /preferences/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6WyJIYWNrZXIgTmV3cyJdLCJhY3Rpb24iOiJtYW5hZ2UiLCJleHAiOjE3Mzc1NTc2MTF9.SZ4SMYaAjUvKmsezxMDJJZRNp5w23hZrDYWQbkGC9wg HTTP/1.1[0m" 404 -
+2025-01-15 20:44:30,933 - main - INFO - Loaded 1 subscribers
+2025-01-15 20:48:34,201 - main - INFO - Loaded 1 subscribers
+2025-01-15 20:48:38,578 - __main__ - INFO - Loaded 1 subscribers
+2025-01-15 20:48:38,584 - __main__ - INFO - Health server started on port 5001
+2025-01-15 20:48:38,591 - __main__ - INFO - Newsletter scheduled for 20:22 daily
+2025-01-15 20:48:38,636 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.105:5001
+2025-01-15 20:48:38,636 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-15 20:49:13,744 - __main__ - INFO - Loaded 1 subscribers
+2025-01-15 20:49:13,751 - __main__ - INFO - Health server started on port 5001
+2025-01-15 20:49:13,753 - __main__ - INFO - Newsletter scheduled for 20:52 daily
+2025-01-15 20:49:13,775 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.105:5001
+2025-01-15 20:49:13,775 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-15 20:53:05,655 - __main__ - INFO - Newsletter sent to aditya.21cs004@sode-edu.in
+2025-01-15 20:53:05,914 - __main__ - INFO - Completed sending newsletters
+2025-01-15 21:06:59,078 - main - INFO - Loaded 1 subscribers
+2025-01-15 21:08:05,384 - main - INFO - Loaded 1 subscribers
+2025-01-15 21:14:50,726 - werkzeug - INFO - 127.0.0.1 - - [15/Jan/2025 21:14:50] "[33mGET /preferences/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6WyJIYWNrZXIgTmV3cyJdLCJhY3Rpb24iOiJtYW5hZ2UiLCJleHAiOjE3Mzc1NTkzODN9.lQ66ZbCWz-8BusX6VvjC5geKBmwfPKKo9UAFdCDUDWM HTTP/1.1[0m" 404 -
+2025-01-15 21:18:36,235 - __main__ - INFO - Loaded 1 subscribers
+2025-01-15 21:18:36,243 - __main__ - INFO - Health server started on port 5001
+2025-01-15 21:18:36,243 - __main__ - INFO - Newsletter scheduled for 21:19 daily
+2025-01-15 21:18:36,267 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.105:5001
+2025-01-15 21:18:36,267 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-15 21:18:42,949 - main - INFO - Loaded 1 subscribers
+2025-01-15 21:20:22,011 - __main__ - INFO - Newsletter sent to aditya.21cs004@sode-edu.in
+2025-01-15 21:20:22,264 - __main__ - INFO - Completed sending newsletters
+2025-01-15 21:22:29,399 - __main__ - INFO - Loaded 1 subscribers
+2025-01-15 21:22:29,405 - __main__ - INFO - Health server started on port 5001
+2025-01-15 21:22:29,405 - __main__ - INFO - Newsletter scheduled for 21:24 daily
+2025-01-15 21:22:29,428 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.105:5001
+2025-01-15 21:22:29,430 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-15 21:25:18,713 - __main__ - INFO - Newsletter sent to aditya.21cs004@sode-edu.in
+2025-01-15 21:25:18,998 - __main__ - INFO - Completed sending newsletters
+2025-01-15 21:29:27,415 - main - INFO - Loaded 1 subscribers
+2025-01-15 21:43:54,508 - __main__ - INFO - Loaded 1 subscribers
+2025-01-15 21:43:54,508 - __main__ - INFO - Health server started on port 5001
+2025-01-15 21:43:54,516 - __main__ - INFO - Newsletter scheduled for 21:45 daily
+2025-01-15 21:43:54,556 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.105:5001
+2025-01-15 21:43:54,558 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-15 21:46:19,549 - __main__ - INFO - Newsletter sent to aditya.21cs004@sode-edu.in
+2025-01-15 21:46:19,794 - __main__ - INFO - Completed sending newsletters
+2025-01-15 21:46:57,592 - werkzeug - INFO - 192.168.0.105 - - [15/Jan/2025 21:46:57] "[33mGET / HTTP/1.1[0m" 404 -
+2025-01-15 21:46:57,625 - werkzeug - INFO - 192.168.0.105 - - [15/Jan/2025 21:46:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-15 21:47:02,059 - werkzeug - INFO - 192.168.0.105 - - [15/Jan/2025 21:47:02] "GET /health HTTP/1.1" 200 -
+2025-01-15 22:28:02,744 - __main__ - INFO - Loaded 1 subscribers
+2025-01-15 22:28:02,744 - __main__ - INFO - Health server started on port 5001
+2025-01-15 22:28:02,744 - __main__ - INFO - Newsletter scheduled for 22:29 daily
+2025-01-15 22:28:02,766 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.105:5001
+2025-01-15 22:28:02,766 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-15 22:29:35,763 - __main__ - INFO - Newsletter sent to aditya.21cs004@sode-edu.in
+2025-01-15 22:29:36,001 - __main__ - INFO - Completed sending newsletters
+2025-01-15 23:26:20,792 - __main__ - INFO - Loaded 1 subscribers
+2025-01-15 23:26:20,796 - __main__ - INFO - Health server started on port 5001
+2025-01-15 23:26:20,796 - __main__ - INFO - Newsletter scheduled for 23:28 daily
+2025-01-15 23:26:20,807 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.105:5001
+2025-01-15 23:26:20,807 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-15 23:28:37,669 - __main__ - INFO - Newsletter sent to aditya.21cs004@sode-edu.in
+2025-01-15 23:28:37,912 - __main__ - INFO - Completed sending newsletters
+2025-01-15 23:33:05,029 - main - INFO - Loaded 1 subscribers
+2025-01-15 23:35:02,718 - main - INFO - Loaded 1 subscribers
+2025-01-15 23:39:19,796 - main - INFO - Loaded 1 subscribers
+2025-01-15 23:39:43,504 - main - INFO - Loaded 1 subscribers
+2025-01-15 23:40:03,372 - main - INFO - Loaded 1 subscribers
+2025-01-15 23:41:00,978 - main - INFO - Loaded 1 subscribers
+2025-01-15 23:41:32,577 - main - INFO - Loaded 1 subscribers
+2025-01-15 23:41:50,696 - main - INFO - Loaded 1 subscribers
+2025-01-15 23:42:11,576 - main - INFO - Loaded 1 subscribers
+2025-01-15 23:43:36,849 - main - INFO - Loaded 1 subscribers
+2025-01-15 23:45:08,478 - main - INFO - Loaded 1 subscribers
+2025-01-15 23:45:41,488 - main - INFO - Loaded 1 subscribers
+2025-01-15 23:46:17,942 - main - INFO - Loaded 1 subscribers
+2025-01-15 23:46:27,217 - main - INFO - Loaded 1 subscribers
+2025-01-15 23:47:47,323 - main - INFO - Loaded 1 subscribers
+2025-01-15 23:49:13,844 - __main__ - INFO - Loaded 1 subscribers
+2025-01-15 23:49:13,847 - __main__ - INFO - Health server started on port 5001
+2025-01-15 23:49:13,847 - __main__ - INFO - Newsletter scheduled for 23:52 daily
+2025-01-15 23:49:13,858 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.105:5001
+2025-01-15 23:49:13,858 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-15 23:52:29,248 - __main__ - INFO - Newsletter sent to aditya.21cs004@sode-edu.in
+2025-01-15 23:52:29,486 - __main__ - INFO - Completed sending newsletters
+2025-01-15 23:55:37,764 - main - INFO - Loaded 1 subscribers
+2025-01-15 23:56:39,326 - __main__ - INFO - Loaded 1 subscribers
+2025-01-15 23:56:39,328 - __main__ - INFO - Health server started on port 5001
+2025-01-15 23:56:39,329 - __main__ - INFO - Newsletter scheduled for 23:58 daily
+2025-01-15 23:56:39,341 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.105:5001
+2025-01-15 23:56:39,341 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-15 23:58:56,332 - __main__ - INFO - Newsletter sent to aditya.21cs004@sode-edu.in
+2025-01-15 23:58:56,574 - __main__ - INFO - Completed sending newsletters
+2025-01-16 00:02:01,911 - main - INFO - Loaded 1 subscribers
+2025-01-16 00:02:40,808 - main - INFO - Loaded 1 subscribers
+2025-01-16 00:03:29,043 - main - INFO - Loaded 1 subscribers
+2025-01-16 00:03:54,011 - main - INFO - Loaded 1 subscribers
+2025-01-16 00:04:10,377 - __main__ - INFO - Loaded 1 subscribers
+2025-01-16 00:04:10,380 - __main__ - INFO - Health server started on port 5001
+2025-01-16 00:04:10,380 - __main__ - INFO - Newsletter scheduled for 00:06 daily
+2025-01-16 00:04:10,392 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.105:5001
+2025-01-16 00:04:10,392 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-16 00:06:29,608 - __main__ - INFO - Generated token for aditya.21cs004@sode-edu.in with action unsubscribe
+2025-01-16 00:06:29,610 - __main__ - INFO - Generated token for aditya.21cs004@sode-edu.in with action preferences
+2025-01-16 00:06:31,282 - __main__ - INFO - Newsletter sent to aditya.21cs004@sode-edu.in
+2025-01-16 00:06:31,525 - __main__ - INFO - Completed sending newsletters
+2025-01-16 00:06:43,338 - main - INFO - Attempting to verify token
+2025-01-16 00:06:43,340 - main - INFO - Token verified successfully for aditya.21cs004@sode-edu.in
+2025-01-16 00:07:03,677 - main - INFO - Attempting to verify token
+2025-01-16 00:07:03,678 - main - INFO - Token verified successfully for aditya.21cs004@sode-edu.in
+2025-01-16 00:07:03,680 - main - INFO - Saved 1 subscribers
+2025-01-16 00:08:15,514 - root - INFO - Received token: eyJhbGciOi...
+2025-01-16 00:08:15,514 - main - INFO - Attempting to verify token
+2025-01-16 00:08:15,515 - main - INFO - Token verified successfully for aditya.21cs004@sode-edu.in
+2025-01-16 00:09:00,691 - main - INFO - Attempting to verify token
+2025-01-16 00:09:00,692 - main - INFO - Token verified successfully for aditya.21cs004@sode-edu.in
+2025-01-16 00:20:39,048 - main - INFO - Loaded 1 subscribers
+2025-01-16 00:26:42,168 - main - INFO - Loaded 1 subscribers
+2025-01-16 00:26:51,469 - main - INFO - Loaded 1 subscribers
+2025-01-16 00:27:03,178 - __main__ - INFO - Loaded 1 subscribers
+2025-01-16 00:27:03,181 - __main__ - INFO - Health server started on port 5001
+2025-01-16 00:27:03,181 - __main__ - INFO - Newsletter scheduled for 00:28 daily
+2025-01-16 00:27:03,191 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.105:5001
+2025-01-16 00:27:03,191 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-16 00:28:31,458 - __main__ - INFO - Generated token for aditya.21cs004@sode-edu.in with action unsubscribe
+2025-01-16 00:28:31,460 - __main__ - INFO - Generated token for aditya.21cs004@sode-edu.in with action preferences
+2025-01-16 00:28:33,459 - __main__ - INFO - Newsletter sent to aditya.21cs004@sode-edu.in
+2025-01-16 00:28:33,702 - __main__ - INFO - Completed sending newsletters
+2025-01-16 00:30:00,320 - main - INFO - Attempting to verify token
+2025-01-16 00:30:00,321 - main - INFO - Token verified successfully for aditya.21cs004@sode-edu.in
+2025-01-16 00:32:39,742 - main - INFO - Loaded 1 subscribers
+2025-01-16 00:33:42,552 - main - INFO - Loaded 1 subscribers
+2025-01-16 18:49:03,199 - __main__ - INFO - Loaded 1 subscribers
+2025-01-16 18:49:03,207 - __main__ - INFO - Health server started on port 5001
+2025-01-16 18:49:03,207 - __main__ - INFO - Newsletter scheduled for 18:50 daily
+2025-01-16 18:49:03,233 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.105:5001
+2025-01-16 18:49:03,233 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-16 18:50:05,224 - __main__ - INFO - Generated token for aditya.21cs004@sode-edu.in with action unsubscribe
+2025-01-16 18:50:05,224 - __main__ - INFO - Generated token for aditya.21cs004@sode-edu.in with action preferences
+2025-01-16 18:50:07,316 - __main__ - INFO - Newsletter sent to aditya.21cs004@sode-edu.in
+2025-01-16 18:50:07,658 - __main__ - INFO - Completed sending newsletters
+2025-01-16 18:56:38,242 - __main__ - INFO - Loaded 1 subscribers
+2025-01-16 18:56:38,249 - __main__ - INFO - Health server started on port 5001
+2025-01-16 18:56:38,251 - __main__ - INFO - Newsletter scheduled for 18:59 daily
+2025-01-16 18:56:38,283 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.105:5001
+2025-01-16 18:56:38,285 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-16 18:59:40,400 - __main__ - INFO - Generated token for aditya.21cs004@sode-edu.in with action unsubscribe
+2025-01-16 18:59:40,402 - __main__ - INFO - Generated token for aditya.21cs004@sode-edu.in with action preferences
+2025-01-16 18:59:42,347 - __main__ - INFO - Newsletter sent to aditya.21cs004@sode-edu.in
+2025-01-16 18:59:42,648 - __main__ - INFO - Completed sending newsletters
+2025-01-16 19:06:03,751 - __main__ - INFO - Loaded 1 subscribers
+2025-01-16 19:06:03,763 - __main__ - INFO - Health server started on port 5001
+2025-01-16 19:06:03,767 - __main__ - INFO - Newsletter scheduled for 19:07 daily
+2025-01-16 19:06:03,795 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.105:5001
+2025-01-16 19:06:03,795 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-16 19:07:06,147 - __main__ - ERROR - Error fetching Google feed: 'NoneType' object has no attribute 'get'
+2025-01-16 19:07:08,025 - __main__ - ERROR - Error fetching arXiv papers: 'NoneType' object has no attribute 'get'
+2025-01-16 19:07:10,412 - __main__ - ERROR - Error fetching Microsoft feed: 'NoneType' object has no attribute 'get'
+2025-01-16 19:07:25,113 - __main__ - INFO - Generated token for aditya.21cs004@sode-edu.in with action unsubscribe
+2025-01-16 19:07:25,115 - __main__ - INFO - Generated token for aditya.21cs004@sode-edu.in with action preferences
+2025-01-16 19:07:27,030 - __main__ - INFO - Newsletter sent to aditya.21cs004@sode-edu.in
+2025-01-16 19:07:27,279 - __main__ - INFO - Completed sending newsletters
+2025-01-16 19:14:21,981 - __main__ - INFO - Loaded 1 subscribers
+2025-01-16 19:14:21,982 - __main__ - INFO - Health server started on port 5001
+2025-01-16 19:14:21,982 - __main__ - INFO - Newsletter scheduled for 19:16 daily
+2025-01-16 19:14:22,003 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.105:5001
+2025-01-16 19:14:22,004 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-16 19:16:24,335 - __main__ - ERROR - Error fetching arXiv papers: 'NoneType' object has no attribute 'get'
+2025-01-16 19:16:24,336 - __main__ - ERROR - Error fetching Google feed: 'NoneType' object has no attribute 'get'
+2025-01-16 19:16:24,336 - __main__ - ERROR - Error fetching Microsoft feed: 'NoneType' object has no attribute 'get'
+2025-01-16 19:16:24,336 - __main__ - ERROR - Error fetching AWS feed: 'NoneType' object has no attribute 'get'
+2025-01-16 19:16:24,345 - __main__ - INFO - Generated token for aditya.21cs004@sode-edu.in with action unsubscribe
+2025-01-16 19:16:24,346 - __main__ - INFO - Generated token for aditya.21cs004@sode-edu.in with action preferences
+2025-01-16 19:16:26,278 - __main__ - INFO - Newsletter sent to aditya.21cs004@sode-edu.in
+2025-01-16 19:16:26,591 - __main__ - INFO - Completed sending newsletters
+2025-01-16 19:19:30,101 - __main__ - INFO - Loaded 1 subscribers
+2025-01-16 19:19:30,108 - __main__ - INFO - Health server started on port 5001
+2025-01-16 19:19:30,110 - __main__ - INFO - Newsletter scheduled for 19:21 daily
+2025-01-16 19:19:30,132 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.105:5001
+2025-01-16 19:19:30,133 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-16 19:21:32,331 - __main__ - ERROR - Error fetching Meta feed: 'NoneType' object has no attribute 'get'
+2025-01-16 19:21:34,254 - __main__ - ERROR - Error fetching Microsoft feed: 'NoneType' object has no attribute 'get'
+2025-01-16 19:21:34,264 - __main__ - ERROR - Error fetching Google feed: 'NoneType' object has no attribute 'get'
+2025-01-16 19:21:34,267 - __main__ - ERROR - Error fetching arXiv papers: 'NoneType' object has no attribute 'get'
+2025-01-16 19:21:34,593 - __main__ - INFO - Generated token for aditya.21cs004@sode-edu.in with action unsubscribe
+2025-01-16 19:21:34,595 - __main__ - INFO - Generated token for aditya.21cs004@sode-edu.in with action preferences
+2025-01-16 19:21:36,652 - __main__ - INFO - Newsletter sent to aditya.21cs004@sode-edu.in
+2025-01-16 19:21:36,902 - __main__ - INFO - Completed sending newsletters
+2025-01-16 19:23:25,005 - __main__ - INFO - Loaded 1 subscribers
+2025-01-16 19:23:25,013 - __main__ - INFO - Health server started on port 5001
+2025-01-16 19:23:25,013 - __main__ - INFO - Newsletter scheduled for 19:25 daily
+2025-01-16 19:23:25,053 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.105:5001
+2025-01-16 19:23:25,053 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-16 19:25:26,997 - __main__ - ERROR - Error fetching arXiv papers: 'NoneType' object has no attribute 'get'
+2025-01-16 19:25:29,885 - __main__ - ERROR - Error fetching Meta feed: 'NoneType' object has no attribute 'get'
+2025-01-16 19:25:30,341 - __main__ - INFO - Generated token for aditya.21cs004@sode-edu.in with action unsubscribe
+2025-01-16 19:25:30,343 - __main__ - INFO - Generated token for aditya.21cs004@sode-edu.in with action preferences
+2025-01-16 19:25:32,281 - __main__ - INFO - Newsletter sent to aditya.21cs004@sode-edu.in
+2025-01-16 19:25:32,587 - __main__ - INFO - Completed sending newsletters
+2025-01-16 19:29:26,678 - __main__ - INFO - Loaded 1 subscribers
+2025-01-16 19:29:26,685 - __main__ - INFO - Health server started on port 5001
+2025-01-16 19:29:26,685 - __main__ - INFO - Newsletter scheduled for 19:31 daily
+2025-01-16 19:29:26,700 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.105:5001
+2025-01-16 19:29:26,702 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-16 19:31:28,738 - __main__ - INFO - Sources for categories ['Science & Research', 'Web & Mobile']: {'arXiv Papers', 'Meta Blog', 'Hackernoon', 'Science Daily', 'Dev.to'}
+2025-01-16 19:31:28,740 - __main__ - INFO - Selected Categories: ['Science & Research', 'Web & Mobile']
+2025-01-16 19:31:28,740 - __main__ - INFO - Fetching from sources: ['arXiv Papers', 'Meta Blog', 'Hackernoon', 'Science Daily', 'Dev.to']
+2025-01-16 19:31:28,740 - __main__ - INFO - Fetching data from: arXiv Papers
+2025-01-16 19:31:28,740 - __main__ - INFO - Fetching data from: Meta Blog
+2025-01-16 19:31:28,740 - __main__ - INFO - Fetching data from: Hackernoon
+2025-01-16 19:31:28,742 - __main__ - INFO - Fetching data from: Science Daily
+2025-01-16 19:31:28,742 - __main__ - INFO - Fetching data from: Dev.to
+2025-01-16 19:31:28,744 - __main__ - ERROR - Error fetching arXiv papers: 'NoneType' object has no attribute 'get'
+2025-01-16 19:31:28,744 - __main__ - ERROR - Error fetching Meta feed: 'NoneType' object has no attribute 'get'
+2025-01-16 19:31:30,721 - __main__ - INFO - Total fetched articles: 20
+2025-01-16 19:31:30,724 - __main__ - INFO - Total categorized articles: 20
+2025-01-16 19:31:30,730 - __main__ - INFO - Generated token for aditya.21cs004@sode-edu.in with action unsubscribe
+2025-01-16 19:31:30,730 - __main__ - INFO - Generated token for aditya.21cs004@sode-edu.in with action preferences
+2025-01-16 19:31:32,931 - __main__ - INFO - Newsletter sent to aditya.21cs004@sode-edu.in
+2025-01-16 19:31:33,240 - __main__ - INFO - Completed sending newsletters
+2025-01-16 19:43:31,446 - __main__ - INFO - Loaded 1 subscribers
+2025-01-16 19:43:31,449 - __main__ - INFO - Health server started on port 5001
+2025-01-16 19:43:31,449 - __main__ - INFO - Newsletter scheduled for 19:45 daily
+2025-01-16 19:43:31,469 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.105:5001
+2025-01-16 19:43:31,469 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-16 19:45:33,608 - __main__ - INFO - Sources for categories ['Science & Research', 'Web & Mobile']: {'Science Daily', 'arXiv Papers', 'Meta Blog', 'Dev.to', 'Hackernoon'}
+2025-01-16 19:45:33,613 - __main__ - INFO - Selected Categories: ['Science & Research', 'Web & Mobile']
+2025-01-16 19:45:33,613 - __main__ - INFO - Fetching from sources: ['Science Daily', 'arXiv Papers', 'Meta Blog', 'Dev.to', 'Hackernoon']
+2025-01-16 19:45:33,613 - __main__ - INFO - Fetching data from: Science Daily
+2025-01-16 19:45:33,615 - __main__ - INFO - Fetching data from: arXiv Papers
+2025-01-16 19:45:33,616 - __main__ - INFO - Fetching data from: Meta Blog
+2025-01-16 19:45:33,616 - __main__ - INFO - Fetching data from: Dev.to
+2025-01-16 19:45:33,617 - __main__ - INFO - Fetching data from: Hackernoon
+2025-01-16 19:45:33,619 - __main__ - INFO - Attempting to fetch Science Daily news...
+2025-01-16 19:45:33,627 - __main__ - INFO - Fetching arXiv papers from: http://export.arxiv.org/api/query?search_query=(cat:cs.AI OR cat:cs.LG OR cat:cs.CL)+AND+submittedDate:[202501090000+TO+*]&sortBy=submittedDate&sortOrder=descending&max_results=10
+2025-01-16 19:45:33,630 - __main__ - ERROR - Unexpected error fetching arXiv papers: 'NoneType' object has no attribute 'get'
+2025-01-16 19:45:33,630 - __main__ - INFO - Fetching Meta blog from: https://engineering.fb.com/feed/
+2025-01-16 19:45:33,630 - __main__ - ERROR - Unexpected error fetching Meta feed: 'NoneType' object has no attribute 'get'
+2025-01-16 19:45:44,093 - __main__ - INFO - Science Daily response status: 403
+2025-01-16 19:45:44,103 - __main__ - ERROR - Failed to fetch Science Daily. HTTP Status: 403
+2025-01-16 19:45:44,432 - __main__ - INFO - Total fetched articles: 20
+2025-01-16 19:45:44,432 - __main__ - INFO - Science Daily articles found: 0
+2025-01-16 19:45:44,432 - __main__ - INFO - Article '7 Developer Tools That Will Boost Your Workflow in 2025' categorized as: {'Web & Mobile', 'Programming & Development'}
+2025-01-16 19:45:44,432 - __main__ - INFO - Article 'Join us for the Agent.ai Challenge: $10,000 in Prizes!' categorized as: {'Programming & Development', 'AI & Machine Learning', 'Web & Mobile'}
+2025-01-16 19:45:44,580 - __main__ - INFO - Article 'Top 50 Picked News items of Jan 15, 2025' categorized as: {'Web & Mobile', 'Programming & Development'}
+2025-01-16 19:45:44,584 - __main__ - INFO - Article 'What ((programming) language) should I learn this year, 2025 ?' categorized as: {'Web & Mobile', 'Programming & Development'}
+2025-01-16 19:45:44,584 - __main__ - INFO - Article 'How Developers Enable EV Chargers to Communicate with Mobile Apps' categorized as: {'Web & Mobile', 'Programming & Development'}
+2025-01-16 19:45:44,587 - __main__ - INFO - Article 'Meet AgentCare - Your Personalized AI Health Advisor, Anytime, Anywhere' categorized as: {'Programming & Development', 'AI & Machine Learning', 'Web & Mobile'}
+2025-01-16 19:45:44,587 - __main__ - INFO - Article 'Designing for developers means designing for LLMs too' categorized as: {'Web & Mobile', 'Programming & Development'}
+2025-01-16 19:45:44,593 - __main__ - INFO - Article 'The TechBeat: With Gelsinger's Departure, Could Intel Be Headed Towards a Stock Surge? (1/16/2025)' categorized as: {'Web & Mobile', 'Cybersecurity'}
+2025-01-16 19:45:44,593 - __main__ - INFO - Article 'Bridging Computational Notions of Depth: Members of Deep Classes' categorized as: {'Web & Mobile'}
+2025-01-16 19:45:44,593 - __main__ - INFO - Article 'Here's Proof of the Slow Growth Law and Some  Unobserved Consequences' categorized as: {'Web & Mobile'}
+2025-01-16 19:45:44,593 - __main__ - INFO - Article 'Bridging Computational Notions of Depth: Turing Functionals, Semimeasures, and More' categorized as: {'Web & Mobile'}
+2025-01-16 19:45:44,593 - __main__ - INFO - Article 'Bridging Computational Notions of Depth: How We Studied the Relationship' categorized as: {'Web & Mobile', 'Science & Research'}
+2025-01-16 19:45:44,593 - __main__ - INFO - Article 'Bitcoin: What’s Trump Got to Do With It?' categorized as: {'Web & Mobile', 'AI & Machine Learning'}
+2025-01-16 19:45:44,596 - __main__ - INFO - Article 'The King Combination: Efficiently Completing Heterogeneous Data Integration with DolphinScheduler 3.1. and SeaTunnel 2.3.' categorized as: {'Web & Mobile', 'Data Science & Analytics'}
+2025-01-16 19:45:44,597 - __main__ - INFO - Article 'The 3 Major Actions in Favor of the Bitcoin Revolution That Donald Trump Must Take Immediately' categorized as: {'Web & Mobile', 'AI & Machine Learning'}
+2025-01-16 19:45:44,597 - __main__ - INFO - Article 'The New Yorker's Attack on Skycoin: A Case Study in Media Bias' categorized as: {'Web & Mobile', 'Science & Research'}
+2025-01-16 19:45:44,597 - __main__ - INFO - Article 'Making Sense of AI Learning Proofs' categorized as: {'Web & Mobile', 'AI & Machine Learning'}
+2025-01-16 19:45:44,598 - __main__ - INFO - Total categorized articles: 20
+2025-01-16 19:45:44,598 - __main__ - INFO - Total articles in newsletter: 20
+2025-01-16 19:45:44,598 - __main__ - INFO - Science Daily articles included in newsletter: 0
+2025-01-16 19:45:44,600 - __main__ - INFO - Generated token for aditya.21cs004@sode-edu.in with action unsubscribe
+2025-01-16 19:45:44,600 - __main__ - INFO - Generated token for aditya.21cs004@sode-edu.in with action preferences
+2025-01-16 19:45:46,636 - __main__ - INFO - Newsletter sent to aditya.21cs004@sode-edu.in
+2025-01-16 19:45:46,885 - __main__ - INFO - Completed sending newsletters
+2025-01-16 19:51:29,025 - __main__ - INFO - Loaded 1 subscribers
+2025-01-16 19:51:29,030 - __main__ - INFO - Health server started on port 5001
+2025-01-16 19:51:29,031 - __main__ - INFO - Newsletter scheduled for 19:53 daily
+2025-01-16 19:51:29,045 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.105:5001
+2025-01-16 19:51:29,045 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-16 19:53:31,149 - __main__ - INFO - Sources for categories ['Science & Research', 'Web & Mobile']: {'Meta Blog', 'arXiv Papers', 'Dev.to', 'Science Daily', 'Hackernoon'}
+2025-01-16 19:53:31,149 - __main__ - INFO - Selected Categories: ['Science & Research', 'Web & Mobile']
+2025-01-16 19:53:31,151 - __main__ - INFO - Fetching from sources: ['Meta Blog', 'arXiv Papers', 'Dev.to', 'Science Daily', 'Hackernoon']
+2025-01-16 19:53:31,151 - __main__ - INFO - Fetching data from: Meta Blog
+2025-01-16 19:53:31,151 - __main__ - INFO - Fetching data from: arXiv Papers
+2025-01-16 19:53:31,151 - __main__ - INFO - Fetching data from: Dev.to
+2025-01-16 19:53:31,151 - __main__ - INFO - Fetching data from: Science Daily
+2025-01-16 19:53:31,153 - __main__ - INFO - Fetching data from: Hackernoon
+2025-01-16 19:53:31,155 - __main__ - INFO - Fetching Meta blog from: https://engineering.fb.com/feed/
+2025-01-16 19:53:31,157 - __main__ - ERROR - Unexpected error fetching Meta feed: 'NoneType' object has no attribute 'get'
+2025-01-16 19:53:31,157 - __main__ - INFO - Fetching arXiv papers from: http://export.arxiv.org/api/query?search_query=(cat:cs.AI OR cat:cs.LG OR cat:cs.CL)+AND+submittedDate:[202501090000+TO+*]&sortBy=submittedDate&sortOrder=descending&max_results=10
+2025-01-16 19:53:31,157 - __main__ - ERROR - Unexpected error fetching arXiv papers: 'NoneType' object has no attribute 'get'
+2025-01-16 19:53:32,406 - __main__ - INFO - Attempting to fetch Science Daily news...
+2025-01-16 19:53:32,559 - __main__ - INFO - Science Daily response status: 405
+2025-01-16 19:53:32,559 - __main__ - ERROR - Failed to fetch Science Daily. HTTP Status: 405
+2025-01-16 19:53:32,721 - __main__ - INFO - Total fetched articles: 20
+2025-01-16 19:53:32,737 - __main__ - INFO - Science Daily articles found: 0
+2025-01-16 19:53:32,739 - __main__ - INFO - Article '7 Developer Tools That Will Boost Your Workflow in 2025' categorized as: {'Web & Mobile', 'Programming & Development'}
+2025-01-16 19:53:32,739 - __main__ - INFO - Article 'Join us for the Agent.ai Challenge: $10,000 in Prizes!' categorized as: {'Web & Mobile', 'AI & Machine Learning', 'Programming & Development'}
+2025-01-16 19:53:32,759 - __main__ - INFO - Article 'Top 50 Picked News items of Jan 15, 2025' categorized as: {'Web & Mobile', 'Programming & Development'}
+2025-01-16 19:53:32,759 - __main__ - INFO - Article 'What ((programming) language) should I learn this year, 2025 ?' categorized as: {'Web & Mobile', 'Programming & Development'}
+2025-01-16 19:53:32,759 - __main__ - INFO - Article 'How Developers Enable EV Chargers to Communicate with Mobile Apps' categorized as: {'Web & Mobile', 'Programming & Development'}
+2025-01-16 19:53:32,759 - __main__ - INFO - Article 'Meet AgentCare - Your Personalized AI Health Advisor, Anytime, Anywhere' categorized as: {'Web & Mobile', 'AI & Machine Learning', 'Programming & Development'}
+2025-01-16 19:53:32,759 - __main__ - INFO - Article 'Designing for developers means designing for LLMs too' categorized as: {'Web & Mobile', 'Programming & Development'}
+2025-01-16 19:53:32,766 - __main__ - INFO - Article 'The TechBeat: With Gelsinger's Departure, Could Intel Be Headed Towards a Stock Surge? (1/16/2025)' categorized as: {'Web & Mobile', 'Cybersecurity'}
+2025-01-16 19:53:32,766 - __main__ - INFO - Article 'Bridging Computational Notions of Depth: Members of Deep Classes' categorized as: {'Web & Mobile'}
+2025-01-16 19:53:32,766 - __main__ - INFO - Article 'Here's Proof of the Slow Growth Law and Some  Unobserved Consequences' categorized as: {'Web & Mobile'}
+2025-01-16 19:53:32,766 - __main__ - INFO - Article 'Bridging Computational Notions of Depth: Turing Functionals, Semimeasures, and More' categorized as: {'Web & Mobile'}
+2025-01-16 19:53:32,766 - __main__ - INFO - Article 'Bridging Computational Notions of Depth: How We Studied the Relationship' categorized as: {'Web & Mobile', 'Science & Research'}
+2025-01-16 19:53:32,766 - __main__ - INFO - Article 'Bitcoin: What’s Trump Got to Do With It?' categorized as: {'Web & Mobile', 'AI & Machine Learning'}
+2025-01-16 19:53:32,766 - __main__ - INFO - Article 'The King Combination: Efficiently Completing Heterogeneous Data Integration with DolphinScheduler 3.1. and SeaTunnel 2.3.' categorized as: {'Web & Mobile', 'Data Science & Analytics'}
+2025-01-16 19:53:32,768 - __main__ - INFO - Article 'The 3 Major Actions in Favor of the Bitcoin Revolution That Donald Trump Must Take Immediately' categorized as: {'Web & Mobile', 'AI & Machine Learning'}
+2025-01-16 19:53:32,768 - __main__ - INFO - Article 'The New Yorker's Attack on Skycoin: A Case Study in Media Bias' categorized as: {'Web & Mobile', 'Science & Research'}
+2025-01-16 19:53:32,768 - __main__ - INFO - Article 'Making Sense of AI Learning Proofs' categorized as: {'Web & Mobile', 'AI & Machine Learning'}
+2025-01-16 19:53:32,768 - __main__ - INFO - Total categorized articles: 20
+2025-01-16 19:53:32,768 - __main__ - INFO - Total articles in newsletter: 20
+2025-01-16 19:53:32,768 - __main__ - INFO - Science Daily articles included in newsletter: 0
+2025-01-16 19:53:32,768 - __main__ - INFO - Generated token for aditya.21cs004@sode-edu.in with action unsubscribe
+2025-01-16 19:53:32,768 - __main__ - INFO - Generated token for aditya.21cs004@sode-edu.in with action preferences
+2025-01-16 19:53:35,142 - __main__ - INFO - Newsletter sent to aditya.21cs004@sode-edu.in
+2025-01-16 19:53:35,440 - __main__ - INFO - Completed sending newsletters
+2025-01-16 19:57:16,571 - __main__ - INFO - Loaded 1 subscribers
+2025-01-16 19:57:16,579 - __main__ - INFO - Health server started on port 5001
+2025-01-16 19:57:16,580 - __main__ - INFO - Newsletter scheduled for 19:59 daily
+2025-01-16 19:57:16,595 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.105:5001
+2025-01-16 19:57:16,597 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-16 19:59:18,800 - __main__ - INFO - Sources for categories ['Science & Research', 'Web & Mobile']: {'Meta Blog', 'Hackernoon', 'arXiv Papers', 'Science Daily', 'Dev.to'}
+2025-01-16 19:59:18,800 - __main__ - INFO - Selected Categories: ['Science & Research', 'Web & Mobile']
+2025-01-16 19:59:18,804 - __main__ - INFO - Fetching from sources: ['Meta Blog', 'Hackernoon', 'arXiv Papers', 'Science Daily', 'Dev.to']
+2025-01-16 19:59:18,804 - __main__ - INFO - Fetching data from: Meta Blog
+2025-01-16 19:59:18,804 - __main__ - INFO - Fetching data from: Hackernoon
+2025-01-16 19:59:18,804 - __main__ - INFO - Fetching data from: arXiv Papers
+2025-01-16 19:59:18,806 - __main__ - INFO - Fetching data from: Science Daily
+2025-01-16 19:59:18,806 - __main__ - INFO - Fetching data from: Dev.to
+2025-01-16 19:59:18,808 - __main__ - INFO - Fetching Meta blog from: https://engineering.fb.com/feed/
+2025-01-16 19:59:18,809 - __main__ - ERROR - Unexpected error fetching Meta feed: 'NoneType' object has no attribute 'get'
+2025-01-16 19:59:18,829 - __main__ - INFO - Fetching arXiv papers from: http://export.arxiv.org/api/query?search_query=(cat:cs.AI OR cat:cs.LG OR cat:cs.CL)+AND+submittedDate:[202501090000+TO+*]&sortBy=submittedDate&sortOrder=descending&max_results=10
+2025-01-16 19:59:18,833 - __main__ - ERROR - Unexpected error fetching arXiv papers: 'NoneType' object has no attribute 'get'
+2025-01-16 19:59:18,841 - __main__ - INFO - Attempting to fetch Science Daily news using proxy...
+2025-01-16 19:59:21,678 - __main__ - INFO - Science Daily response status: 500
+2025-01-16 19:59:21,687 - __main__ - ERROR - Failed to fetch Science Daily. HTTP Status: 500
+2025-01-16 19:59:21,687 - __main__ - INFO - Total fetched articles: 20
+2025-01-16 19:59:21,687 - __main__ - INFO - Science Daily articles found: 0
+2025-01-16 19:59:21,689 - __main__ - INFO - Article 'The TechBeat: With Gelsinger's Departure, Could Intel Be Headed Towards a Stock Surge? (1/16/2025)' categorized as: {'Cybersecurity', 'Web & Mobile'}
+2025-01-16 19:59:21,689 - __main__ - INFO - Article 'Bridging Computational Notions of Depth: Members of Deep Classes' categorized as: {'Web & Mobile'}
+2025-01-16 19:59:21,690 - __main__ - INFO - Article 'Here's Proof of the Slow Growth Law and Some  Unobserved Consequences' categorized as: {'Web & Mobile'}
+2025-01-16 19:59:21,690 - __main__ - INFO - Article 'Bridging Computational Notions of Depth: Turing Functionals, Semimeasures, and More' categorized as: {'Web & Mobile'}
+2025-01-16 19:59:21,692 - __main__ - INFO - Article 'Bridging Computational Notions of Depth: How We Studied the Relationship' categorized as: {'Science & Research', 'Web & Mobile'}
+2025-01-16 19:59:21,693 - __main__ - INFO - Article 'Bitcoin: What’s Trump Got to Do With It?' categorized as: {'AI & Machine Learning', 'Web & Mobile'}
+2025-01-16 19:59:21,693 - __main__ - INFO - Article 'The King Combination: Efficiently Completing Heterogeneous Data Integration with DolphinScheduler 3.1. and SeaTunnel 2.3.' categorized as: {'Data Science & Analytics', 'Web & Mobile'}
+2025-01-16 19:59:21,693 - __main__ - INFO - Article 'The 3 Major Actions in Favor of the Bitcoin Revolution That Donald Trump Must Take Immediately' categorized as: {'AI & Machine Learning', 'Web & Mobile'}
+2025-01-16 19:59:21,693 - __main__ - INFO - Article 'The New Yorker's Attack on Skycoin: A Case Study in Media Bias' categorized as: {'Science & Research', 'Web & Mobile'}
+2025-01-16 19:59:21,693 - __main__ - INFO - Article 'Making Sense of AI Learning Proofs' categorized as: {'AI & Machine Learning', 'Web & Mobile'}
+2025-01-16 19:59:21,693 - __main__ - INFO - Article '7 Developer Tools That Will Boost Your Workflow in 2025' categorized as: {'Programming & Development', 'Web & Mobile'}
+2025-01-16 19:59:21,697 - __main__ - INFO - Article 'Join us for the Agent.ai Challenge: $10,000 in Prizes!' categorized as: {'Programming & Development', 'AI & Machine Learning', 'Web & Mobile'}
+2025-01-16 19:59:21,729 - __main__ - INFO - Article 'Top 50 Picked News items of Jan 15, 2025' categorized as: {'Programming & Development', 'Web & Mobile'}
+2025-01-16 19:59:21,729 - __main__ - INFO - Article 'What ((programming) language) should I learn this year, 2025 ?' categorized as: {'Programming & Development', 'Web & Mobile'}
+2025-01-16 19:59:21,729 - __main__ - INFO - Article 'How Developers Enable EV Chargers to Communicate with Mobile Apps' categorized as: {'Programming & Development', 'Web & Mobile'}
+2025-01-16 19:59:21,729 - __main__ - INFO - Article 'Meet AgentCare - Your Personalized AI Health Advisor, Anytime, Anywhere' categorized as: {'Programming & Development', 'AI & Machine Learning', 'Web & Mobile'}
+2025-01-16 19:59:21,729 - __main__ - INFO - Article 'Designing for developers means designing for LLMs too' categorized as: {'Programming & Development', 'Web & Mobile'}
+2025-01-16 19:59:21,738 - __main__ - INFO - Total categorized articles: 20
+2025-01-16 19:59:21,738 - __main__ - INFO - Total articles in newsletter: 20
+2025-01-16 19:59:21,738 - __main__ - INFO - Science Daily articles included in newsletter: 0
+2025-01-16 19:59:21,738 - __main__ - INFO - Generated token for aditya.21cs004@sode-edu.in with action unsubscribe
+2025-01-16 19:59:21,746 - __main__ - INFO - Generated token for aditya.21cs004@sode-edu.in with action preferences
+2025-01-16 19:59:23,714 - __main__ - INFO - Newsletter sent to aditya.21cs004@sode-edu.in
+2025-01-16 19:59:24,018 - __main__ - INFO - Completed sending newsletters
+2025-01-16 20:03:49,574 - __main__ - INFO - Loaded 1 subscribers
+2025-01-16 20:03:49,575 - __main__ - INFO - Health server started on port 5001
+2025-01-16 20:03:49,575 - __main__ - INFO - Newsletter scheduled for 20:06 daily
+2025-01-16 20:03:49,596 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.105:5001
+2025-01-16 20:03:49,596 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-16 20:06:43,592 - main - INFO - Loaded 0 subscribers
+2025-01-16 20:06:51,757 - main - INFO - Saved 1 subscribers
+2025-01-16 20:06:51,757 - main - INFO - Added subscriber: aditya.21cs004@sode-edu.in with 6 preferences
+2025-01-16 20:07:15,668 - main - INFO - Saved 2 subscribers
+2025-01-16 20:07:15,670 - main - INFO - Added subscriber: akhileshpoojary146@gmail.com with 5 preferences
+2025-01-16 20:07:35,392 - __main__ - INFO - Loaded 2 subscribers
+2025-01-16 20:07:35,398 - __main__ - INFO - Health server started on port 5001
+2025-01-16 20:07:35,399 - __main__ - INFO - Newsletter scheduled for 20:09 daily
+2025-01-16 20:07:35,428 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.105:5001
+2025-01-16 20:07:35,429 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-16 20:10:11,726 - __main__ - INFO - Generated token for aditya.21cs004@sode-edu.in with action unsubscribe
+2025-01-16 20:10:11,727 - __main__ - INFO - Generated token for aditya.21cs004@sode-edu.in with action preferences
+2025-01-16 20:10:14,062 - __main__ - INFO - Newsletter sent to aditya.21cs004@sode-edu.in
+2025-01-16 20:10:34,962 - __main__ - ERROR - Error fetching news: cannot reuse already awaited coroutine
+2025-01-16 20:10:34,966 - __main__ - INFO - Generated token for akhileshpoojary146@gmail.com with action unsubscribe
+2025-01-16 20:10:34,968 - __main__ - INFO - Generated token for akhileshpoojary146@gmail.com with action preferences
+2025-01-16 20:10:37,025 - __main__ - INFO - Newsletter sent to akhileshpoojary146@gmail.com
+2025-01-16 20:10:37,280 - __main__ - INFO - Completed sending newsletters
+2025-01-16 20:38:38,117 - main - INFO - Loaded 2 subscribers
+2025-01-16 20:39:06,675 - main - INFO - Loaded 2 subscribers
+2025-01-16 20:39:21,691 - main - INFO - Loaded 2 subscribers
+2025-01-16 20:40:02,343 - main - INFO - Loaded 2 subscribers
+2025-01-16 20:44:00,512 - main - INFO - Loaded 1 subscribers
+2025-01-16 20:44:34,535 - main - INFO - Loaded 1 subscribers
+2025-01-16 20:45:02,377 - main - INFO - Loaded 1 subscribers
+2025-01-16 20:45:12,024 - __main__ - INFO - Loaded 1 subscribers
+2025-01-16 20:45:12,042 - __main__ - INFO - Health server started on port 5001
+2025-01-16 20:45:12,042 - __main__ - INFO - Newsletter scheduled for 20:47 daily
+2025-01-16 20:45:12,080 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.105:5001
+2025-01-16 20:45:12,086 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-16 20:47:57,124 - __main__ - INFO - Generated token for aditya.21cs004@sode-edu.in with action unsubscribe
+2025-01-16 20:47:57,126 - __main__ - INFO - Generated token for aditya.21cs004@sode-edu.in with action preferences
+2025-01-16 20:47:59,490 - __main__ - INFO - Newsletter sent to aditya.21cs004@sode-edu.in
+2025-01-16 20:47:59,742 - __main__ - INFO - Completed sending newsletters
+2025-01-16 20:50:37,055 - main - INFO - Loaded 1 subscribers
+2025-01-26 10:08:48,732 - __main__ - INFO - Loaded 2 subscribers
+2025-01-26 10:08:48,743 - __main__ - INFO - Health server started on port 5001
+2025-01-26 10:08:48,746 - __main__ - INFO - Newsletter scheduled for 10:11 daily
+2025-01-26 10:08:48,793 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.105:5001
+2025-01-26 10:08:48,795 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-26 10:09:40,546 - __main__ - INFO - Loaded 1 subscribers
+2025-01-26 10:09:40,558 - __main__ - INFO - Health server started on port 5001
+2025-01-26 10:09:40,560 - __main__ - INFO - Newsletter scheduled for 10:11 daily
+2025-01-26 10:09:40,603 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.105:5001
+2025-01-26 10:09:40,605 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-26 10:11:50,762 - __main__ - ERROR - Error sending newsletter to aditya.21cs004@sode-edu.in: unhashable type: 'list'
+2025-01-26 10:11:51,071 - __main__ - INFO - Completed sending newsletters
+2025-01-26 10:14:10,317 - __main__ - INFO - Loaded 1 subscribers
+2025-01-26 10:14:10,329 - __main__ - INFO - Health server started on port 5001
+2025-01-26 10:14:10,331 - __main__ - INFO - Newsletter scheduled for 10:16 daily
+2025-01-26 10:14:10,379 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.105:5001
+2025-01-26 10:14:10,380 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-26 10:16:48,801 - __main__ - INFO - Generated token for aditya.21cs004@sode-edu.in with action unsubscribe
+2025-01-26 10:16:48,804 - __main__ - INFO - Generated token for aditya.21cs004@sode-edu.in with action preferences
+2025-01-26 10:16:48,806 - __main__ - INFO - Generated token for aditya.21cs004@sode-edu.in with action unsubscribe
+2025-01-26 10:16:48,807 - __main__ - INFO - Generated token for aditya.21cs004@sode-edu.in with action preferences
+2025-01-26 10:16:50,926 - __main__ - INFO - Newsletter sent to aditya.21cs004@sode-edu.in
+2025-01-26 10:16:51,174 - __main__ - INFO - Completed sending newsletters
+2025-01-26 11:09:07,191 - __main__ - INFO - Loaded 1 subscribers
+2025-01-26 11:09:07,195 - __main__ - INFO - Health server started on port 5001
+2025-01-26 11:09:07,196 - __main__ - INFO - Newsletter scheduled for 11:07 daily
+2025-01-26 11:09:07,209 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.105:5001
+2025-01-26 11:09:07,209 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-26 11:09:53,164 - __main__ - INFO - Loaded 1 subscribers
+2025-01-26 11:09:53,168 - __main__ - INFO - Health server started on port 5001
+2025-01-26 11:09:53,170 - __main__ - INFO - Newsletter scheduled for 11:12 daily
+2025-01-26 11:09:53,184 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.105:5001
+2025-01-26 11:09:53,184 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-26 11:12:56,591 - __main__ - ERROR - NewsAPI error: You cannot mix the sources parameter with the country or category parameters.
+2025-01-26 11:12:56,624 - __main__ - ERROR - NewsAPI error: You cannot mix the sources parameter with the country or category parameters.
+2025-01-26 11:12:58,271 - __main__ - INFO - Generated token for aditya.21cs004@sode-edu.in with action unsubscribe
+2025-01-26 11:12:58,272 - __main__ - INFO - Generated token for aditya.21cs004@sode-edu.in with action preferences
+2025-01-26 11:12:58,272 - __main__ - INFO - Generated token for aditya.21cs004@sode-edu.in with action unsubscribe
+2025-01-26 11:12:58,272 - __main__ - INFO - Generated token for aditya.21cs004@sode-edu.in with action preferences
+2025-01-26 11:13:00,233 - __main__ - INFO - Newsletter sent to aditya.21cs004@sode-edu.in
+2025-01-26 11:13:00,540 - __main__ - INFO - Completed sending newsletters
